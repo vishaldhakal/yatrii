@@ -17,19 +17,19 @@ export default function Australia() {
       <div className="container mt-5">
         <div className="row row-cols-2 row-cols-md-4 g-5">
           <div className="col">
-            <img src="/aus.jpg" alt="" className="img-fluid rounded-mine" />
+            <img src="/mel.webp" alt="" className="img-fluid rounded-mine" />
             <h5 className="text-center fw-bb bb2 mt-2">Melbourne</h5>
           </div>
           <div className="col">
-            <img src="/aus.jpg" alt="" className="img-fluid rounded-mine" />
+            <img src="/syd.webp" alt="" className="img-fluid rounded-mine" />
             <h5 className="text-center fw-bb bb2 mt-2">Sydney</h5>
           </div>
           <div className="col">
-            <img src="/aus.jpg" alt="" className="img-fluid rounded-mine" />
+            <img src="/bris.jpg" alt="" className="img-fluid rounded-mine" />
             <h5 className="text-center fw-bb bb2 mt-2">Brisbane</h5>
           </div>
           <div className="col">
-            <img src="/aus.jpg" alt="" className="img-fluid rounded-mine" />
+            <img src="/dar.jpg" alt="" className="img-fluid rounded-mine" />
             <h5 className="text-center fw-bb bb2 mt-2">Darwin</h5>
           </div>
         </div>

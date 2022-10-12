@@ -28,47 +28,47 @@ export default function Footer() {
               <div className="col">
                 <h5 className="fw-bold">Study Destinations</h5>
                 <div className="list">
-                  <a className="mybot" href="#">
-                    Melbourne
-                  </a>
-                  <a className="mybot" href="#">
-                    Sydney
-                  </a>
-                  <a className="mybot" href="#">
-                    Brisbane
-                  </a>
-                  <a className="mybot" href="#">
-                    Tokyo
-                  </a>
-                  <a className="mybot" href="#">
-                    Osaka
-                  </a>
-                  <a className="mybot" href="#">
-                    Nara
-                  </a>
+                  <Link href="/study-in-australia">
+                    <a className="mybot">Melbourne</a>
+                  </Link>
+                  <Link href="/study-in-australia">
+                    <a className="mybot">Sydney</a>
+                  </Link>
+                  <Link href="/study-in-australia">
+                    <a className="mybot">Brisbane</a>
+                  </Link>
+                  <Link href="/study-in-japan">
+                    <a className="mybot">Tokyo</a>
+                  </Link>
+                  <Link href="/study-in-japan">
+                    <a className="mybot">Osaka</a>
+                  </Link>
+                  <Link href="/study-in-uk">
+                    <a className="mybot">London</a>
+                  </Link>
+                  <Link href="/study-in-usa">
+                    <a className="mybot">Texas</a>
+                  </Link>
                 </div>
               </div>
               <div className="col">
-                <h5 className="fw-bold">Study Destinations</h5>
+                <h5 className="fw-bold">Useful Links</h5>
                 <div className="list">
-                  <a className="mybot" href="#">
-                    Melbourne
-                  </a>
-                  <a className="mybot" href="#">
-                    Sydney
-                  </a>
-                  <a className="mybot" href="#">
-                    Brisbane
-                  </a>
-                  <a className="mybot" href="#">
-                    Tokyo
-                  </a>
-                  <a className="mybot" href="#">
-                    Osaka
-                  </a>
-                  <a className="mybot" href="#">
-                    Nara
-                  </a>
+                  <Link href="/about-yatri">
+                    <a className="mybot">About Yatri</a>
+                  </Link>
+                  <Link href="/contact-yatri">
+                    <a className="mybot">Contact us</a>
+                  </Link>
+                  <Link href="/ielts">
+                    <a className="mybot">IELTS</a>
+                  </Link>
+                  <Link href="/pte">
+                    <a className="mybot">PTE</a>
+                  </Link>
+                  <Link href="/japanese">
+                    <a className="mybot">Japanese</a>
+                  </Link>
                 </div>
               </div>
             </div>
@@ -81,7 +81,11 @@ export default function Footer() {
                   <div className="col"></div>
                   <div className="col"></div>
                   <div className="col">
-                    <a href="#" className=" text-center" target="_blank">
+                    <a
+                      href="https://ms-my.facebook.com/watch/yatrieducation/"
+                      className=" text-center"
+                      target="_blank"
+                    >
                       <img
                         loading="lazy"
                         src="/facebook.svg"

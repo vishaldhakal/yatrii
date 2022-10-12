@@ -49,10 +49,9 @@ export default function About() {
                 </h5>
                 <p className="card-text justifyy p-2 p-sm-3 mysubtitle">
                   Our vision is to be recognized as a reliable industry leaders
-                  in the field of hotel development &amp; hotel management by
-                  showcasing strong proficiencies &amp; exceptional team work
-                  that delivers excellent performance &amp; generates great
-                  result.
+                  in the field of abroad study by showcasing strong
+                  proficiencies &amp; exceptional team work that delivers
+                  excellent performance &amp; generates great result.
                 </p>
               </div>
             </div>
@@ -71,12 +70,10 @@ export default function About() {
                   Our Mission
                 </h5>
                 <p className="card-text justifyy p-2 p-sm-3 mysubtitle">
-                  Our mission is to manage and execute hotels using our
-                  extensive experience, resources, international alliances and
-                  high-level of expertise ensuring highest level of quality
-                  &amp; service to guests while providing ever increasing
-                  profitability, facilitating growth for both hotels &amp;
-                  employees.
+                  To provide cross continental quality education in a simplified
+                  manner having brainstormed all the available options. We seek
+                  for university collaborations and institutional tie-ups to
+                  ease up the educational journey for the Nepalese students.
                 </p>
               </div>
             </div>
@@ -102,7 +99,7 @@ export default function About() {
                   <br />
                   <br />
                   <span>
-                    <b>C</b> = CREATIVE
+                    <b>Y</b> = YOUTH
                   </span>
                   <br />
                   <span>
@@ -110,11 +107,15 @@ export default function About() {
                   </span>
                   <br />
                   <span>
+                    <b>T</b> = TIMELY
+                  </span>
+                  <br />
+                  <span>
                     <b>R</b> = RESPONSIBLE
                   </span>
                   <br />
                   <span>
-                    <b>E</b> = EFFECTIVE
+                    <b>I</b> = INSTANT
                   </span>
                   <br />
                 </p>
@@ -172,13 +173,15 @@ export default function About() {
         <div className="row row-cols-2 row-cols-md-4 g-5">
           <div className="col">
             <img src="/avash.jpg" alt="" className="img-fluid rounded-mine" />
-            <h5 className="fw-bb bb2 mt-3 fs-4">Avash Basnet</h5>
-            <h5> Founder </h5>
+            <h5 className="fw-bb bb2 mt-3 fs-4">Avash R. Basnet</h5>
+            <h5> Director </h5>
+            <p className="fw-bold">Contact : +614-31137210</p>
           </div>
           <div className="col">
-            <img src="/avash.jpg" alt="" className="img-fluid rounded-mine" />
+            <img src="/ranjan.jpg" alt="" className="img-fluid rounded-mine" />
             <h5 className="fw-bb bb2 mt-3 fs-4">Ranjan Basnet</h5>
-            <h5> Managing Director </h5>
+            <h5> Counsellor </h5>
+            <p className="fw-bold">Contact : +614-51423990</p>
           </div>
         </div>
       </div>

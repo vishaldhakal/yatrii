@@ -17,20 +17,20 @@ export default function UK() {
       <div className="container mt-5">
         <div className="row row-cols-2 row-cols-md-4 g-5">
           <div className="col">
-            <img src="/japan.jpg" alt="" className="img-fluid rounded-mine" />
-            <h5 className="text-center fw-bb bb2 mt-2">Tokyo</h5>
+            <img src="/london.webp" alt="" className="img-fluid rounded-mine" />
+            <h5 className="text-center fw-bb bb2 mt-2">London</h5>
           </div>
           <div className="col">
-            <img src="/japan.jpg" alt="" className="img-fluid rounded-mine" />
-            <h5 className="text-center fw-bb bb2 mt-2">Hirosima</h5>
+            <img src="/man.webp" alt="" className="img-fluid rounded-mine" />
+            <h5 className="text-center fw-bb bb2 mt-2">Manchester</h5>
           </div>
           <div className="col">
-            <img src="/japan.jpg" alt="" className="img-fluid rounded-mine" />
-            <h5 className="text-center fw-bb bb2 mt-2">Nagasaki</h5>
+            <img src="/bri.jpg" alt="" className="img-fluid rounded-mine" />
+            <h5 className="text-center fw-bb bb2 mt-2">Birmingham</h5>
           </div>
           <div className="col">
-            <img src="/japan.jpg" alt="" className="img-fluid rounded-mine" />
-            <h5 className="text-center fw-bb bb2 mt-2">Darwin</h5>
+            <img src="/liv.jpg" alt="" className="img-fluid rounded-mine" />
+            <h5 className="text-center fw-bb bb2 mt-2">Liverpool</h5>
           </div>
         </div>
       </div>
@@ -55,7 +55,7 @@ export default function UK() {
         </div>
       </div>
       <div>
-        <img src="/aus.jpg" alt="" className="img-fluid fw-img" />
+        <img src="/uk.jpg" alt="" className="img-fluid fw-img" />
       </div>
       <div className="container mt-4">
         <div>

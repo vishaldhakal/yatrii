@@ -32,13 +32,14 @@ export default function Home() {
                 <span className="ms-3">Trusted by 100+ Students</span>
               </div>
               <h1 className="main-title mt-3">
-                Make complex applications simple for users
+                Trusworthy & Best Abroad Study Consultancy in Sindhuli Nepal
               </h1>
               <p className="mt-2">
-                Bluecollar Electrical services was established in 2008. We are
-                trusted and reliable electricians who serve customers in the
-                city as well as throughout United States Of America. Our
-                professionalism, work ethic and our competitive prices.
+                Join us for professional consultation and visa assistance for
+                your abroad studies journey in Australia, Japan, UK and USA. We
+                provide the best IELTS, PTE, and Japanese Language classes in
+                Sindhuli. We are committed to making your study abroad dreams a
+                reality !
               </p>
               <h5 className="fw-bold mt-5">
                 Planning to Study <span className="text-mine">Abroad ?</span>
@@ -70,9 +71,9 @@ export default function Home() {
                   <div className="col-12 mb-3">
                     <input
                       type="text"
-                      placeholder="Service"
-                      name="service"
-                      id="service"
+                      placeholder="Your Message"
+                      name="message"
+                      id="message"
                       value={credentials.name}
                       onChange={(e) => handleChange(e)}
                       className="fields fff"
@@ -95,9 +96,7 @@ export default function Home() {
       <div className="py-5"></div>
       <div className="py-4"></div>
       <div>
-        <h2 className="fw-bb text-center">
-          Let us help with any of our sevice you want
-        </h2>
+        <h2 className="fw-bb fs-1 text-center">Services Yatri Offers</h2>
         <div className="bg-mine-l container br-mine mt-4 py-4 px-md-4">
           <div className="row row-cols-2 row-cols-md-4 gy-5 py-3">
             <div className="col d-flex justify-content-center">
@@ -216,26 +215,31 @@ export default function Home() {
               </h2>
 
               <p className="mt-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi.
+                Yatri International Education is one of the emerging pioneer
+                institutions that aims to facilitate your abroad education
+                through high-quality training courses, test preparation classes,
+                application management, and visa services. We are a one-stop
+                destination dedicated to kick-starting your study abroad
+                journey.
               </p>
               <div className="mt-5 row row-cols-1 row-cols-md-2">
                 <div className="col">
-                  <h5 className="title1">Beneficial Strategies</h5>
+                  <h5 className="title1">Why us?</h5>
                   <hr />
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                    elit tellus, luctus nec ullamcorper.
+                    We connect you to the right study opportunities through
+                    globally accredited colleges and universities in Australia,
+                    USA, UK and Jaopan.
                   </p>
                 </div>
                 <div className="col">
-                  <h5 className="title1">Preparation Series</h5>
+                  <h5 className="title1">How are we different ?</h5>
                   <hr />
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut
-                    elit tellus, luctus nec ullamcorper.
+                    Our team of highly skilled counselors, well-trained teaching
+                    staff, and dedicated student support staff work meticulously
+                    to assist you at each step of your international education
+                    journey.
                   </p>
                 </div>
               </div>
