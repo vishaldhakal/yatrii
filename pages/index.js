@@ -190,13 +190,13 @@ export default function Home() {
             <div className="col">
               <div className="row row-cols-2 g-3 mx-0">
                 <div className="col bg-white">
-                  <img src="/1.jpg" alt="" className="img-fluid img-h" />
+                  <img src="/uk.jpg" alt="" className="img-fluid img-h" />
                 </div>
                 <div className="col">
                   <img src="/2.jpg" alt="" className="img-fluid img-h" />
                 </div>
                 <div className="col">
-                  <img src="/2.jpg" alt="" className="img-fluid img-h" />
+                  <img src="/usa.jpg" alt="" className="img-fluid img-h" />
                 </div>
                 <div className="col bg-white">
                   <img src="/1.jpg" alt="" className="img-fluid img-h" />
