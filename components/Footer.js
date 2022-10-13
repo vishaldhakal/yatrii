@@ -28,25 +28,25 @@ export default function Footer() {
               <div className="col">
                 <h5 className="fw-bold">Study Destinations</h5>
                 <div className="list">
-                  <Link href="/study-in-australia">
+                  <Link href="/study-in-australia" activeClassName="">
                     <a className="mybot">Melbourne</a>
                   </Link>
-                  <Link href="/study-in-australia">
+                  <Link href="/study-in-australia" activeClassName="">
                     <a className="mybot">Sydney</a>
                   </Link>
-                  <Link href="/study-in-australia">
+                  <Link href="/study-in-australia" activeClassName="">
                     <a className="mybot">Brisbane</a>
                   </Link>
-                  <Link href="/study-in-japan">
+                  <Link href="/study-in-japan" activeClassName="">
                     <a className="mybot">Tokyo</a>
                   </Link>
-                  <Link href="/study-in-japan">
+                  <Link href="/study-in-japan" activeClassName="">
                     <a className="mybot">Osaka</a>
                   </Link>
-                  <Link href="/study-in-uk">
+                  <Link href="/study-in-uk" activeClassName="">
                     <a className="mybot">London</a>
                   </Link>
-                  <Link href="/study-in-usa">
+                  <Link href="/study-in-usa" activeClassName="">
                     <a className="mybot">Texas</a>
                   </Link>
                 </div>
@@ -54,19 +54,19 @@ export default function Footer() {
               <div className="col">
                 <h5 className="fw-bold">Useful Links</h5>
                 <div className="list">
-                  <Link href="/about-yatri">
+                  <Link href="/about-yatri" activeClassName="">
                     <a className="mybot">About Yatri</a>
                   </Link>
-                  <Link href="/contact-yatri">
+                  <Link href="/contact-yatri" activeClassName="">
                     <a className="mybot">Contact us</a>
                   </Link>
-                  <Link href="/ielts">
+                  <Link href="/ielts" activeClassName="">
                     <a className="mybot">IELTS</a>
                   </Link>
-                  <Link href="/pte">
+                  <Link href="/pte" activeClassName="">
                     <a className="mybot">PTE</a>
                   </Link>
-                  <Link href="/japanese">
+                  <Link href="/japanese" activeClassName="">
                     <a className="mybot">Japanese</a>
                   </Link>
                 </div>
