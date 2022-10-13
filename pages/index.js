@@ -25,7 +25,7 @@ export default function Home() {
       <Navbar></Navbar>
       <section className="top container">
         <div className="row row-cols-1 row-cols-md-2 align-items-center">
-          <div className="col">
+          <div className="col order-2 order-md-1">
             <div className="mt-4">
               <div className="d-flex align-items-center">
                 <img className="linn img-fluid" src="/linee.png" />
@@ -88,7 +88,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div className="col d-flex align-items-center justify-content-end">
+          <div className="col order-1 d-flex align-items-center justify-content-end">
             <img src="/hero-image.png" alt="hero image" className="img-fluid" />
           </div>
         </div>

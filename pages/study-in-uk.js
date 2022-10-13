@@ -62,7 +62,7 @@ export default function UK() {
           <div className="bg-yell">
             <h5 className="fw-bb p-3">Major attractions of UK</h5>
           </div>
-          <ul class="my-4">
+          <ul className="my-4">
             <li>
               <p>
                 World-class education that is internationally valued and
@@ -92,7 +92,7 @@ export default function UK() {
           <div className="bg-yell">
             <h5 className="fw-bb p-3">Types of Programs Offered</h5>
           </div>
-          <ul class="my-4">
+          <ul className="my-4">
             <li>
               <p>Undergraduate Degree</p>
             </li>

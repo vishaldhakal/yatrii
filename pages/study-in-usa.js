@@ -60,7 +60,7 @@ export default function USA() {
           <div className="bg-yell">
             <h5 className="fw-bb p-3">Major attractions of USA</h5>
           </div>
-          <ul class="my-4">
+          <ul className="my-4">
             <li>
               <p>Quality Education</p>
             </li>
@@ -90,7 +90,7 @@ export default function USA() {
           <div className="bg-yell">
             <h5 className="fw-bb p-3">Types of Programs Offered</h5>
           </div>
-          <ul class="my-4">
+          <ul className="my-4">
             <li>
               <p>Associates Degree</p>
             </li>
@@ -110,7 +110,7 @@ export default function USA() {
             Broadly, there are four types of institutions in the USA offering a
             wide range of courses, learning experiences, and affordability.
           </p>
-          <ul class="my-4">
+          <ul className="my-4">
             <li>
               <p>State Universities/ Colleges</p>
             </li>

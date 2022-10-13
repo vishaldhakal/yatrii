@@ -7,7 +7,7 @@ export default function StudyDestinations() {
         <div className="container">
           <h2 className="fw-bb">Study Destinations</h2>
           <div className="mt-4">
-            <div className="row row-cols-2 row-cols-md-4 g-5">
+            <div className="row row-cols-2 row-cols-md-4 gy-5">
               <div className="col">
                 <Link href="/study-in-australia">
                   <a>

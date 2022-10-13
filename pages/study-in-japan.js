@@ -57,7 +57,7 @@ export default function Japan() {
           <div className="bg-yell">
             <h5 className="fw-bb p-3">Major attractions of Japan</h5>
           </div>
-          <ul class="my-4">
+          <ul className="my-4">
             <li>
               <p>Time morals and values of the Japanese community</p>
             </li>
@@ -89,7 +89,7 @@ export default function Japan() {
               Popular courses for Nepalese students in Japan
             </h5>
           </div>
-          <ul class="my-4">
+          <ul className="my-4">
             <li>
               <p>Engineering Courses</p>
             </li>
@@ -119,7 +119,7 @@ export default function Japan() {
           </p>
           <ol>
             <li>
-              <h6 class="fw-bold">Academic Documents</h6>
+              <h6 className="fw-bold">Academic Documents</h6>
               <ul>
                 <li>
                   <p>
@@ -158,7 +158,7 @@ export default function Japan() {
             </li>
             <br />
             <li>
-              <h6 class="fw-bold">Financial Documents</h6>
+              <h6 className="fw-bold">Financial Documents</h6>
               <ul>
                 <li>
                   <p>Proof of funds(Bank Statement or Loan Letter)</p>
@@ -188,7 +188,7 @@ export default function Japan() {
             </li>
             <br />
             <li>
-              <h6 class="fw-bold">Other Documents</h6>
+              <h6 className="fw-bold">Other Documents</h6>
               <ul>
                 <li>
                   <p>
