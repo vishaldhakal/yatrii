@@ -29,7 +29,7 @@ export default function Home() {
         </title>
         <meta
           name="Description"
-          content="Join Yatri International Education for professional consultation and visa assistance for your abroad studies journey in Australia and Japan."
+          content="Join Yatri International Education for professional consultation and visa assistance for your abroad studies journey in Australia, Japan, United Kingdom and United States of America."
         ></meta>
         <meta name="robots" content="index, follow" />
         <meta property="og:type" content="og:website" />
@@ -39,7 +39,7 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="Join Yatri International Education for professional consultation and visa assistance for your abroad studies journey in Australia and Japan."
+          content="Join Yatri International Education for professional consultation and visa assistance for your abroad studies journey in Australia, Japan, United Kingdom and United States of America."
         />
         <meta
           property="og:image"
