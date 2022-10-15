@@ -10,6 +10,33 @@ import Trainings from "../components/Trainings";
 export default function About() {
   return (
     <>
+      <Head>
+        <title>
+          Who are Yatri Education and How we help your abroad study Journey
+        </title>
+        <meta
+          name="Description"
+          content="Yatri International Education and Visa services is one of the pioneers for abroad education in Sindhuli, Nepal for study in Austrlia and Japan."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Who are Yatri Education and How we help your abroad study Journey"
+        />
+        <meta
+          property="og:description"
+          content="Yatri International Education and Visa services is one of the pioneers for abroad education in Sindhuli, Nepal for study in Austrlia and Japan."
+        />
+        <meta
+          property="og:image"
+          content="https://yatrieducation.edu.np/can.jpg"
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <div className="py-3"></div>
       <div className="container">

@@ -9,6 +9,30 @@ import StudyDestinations from "../components/StudyDestination";
 export default function UK() {
   return (
     <>
+      <Head>
+        <title>
+          Let Yatri Education help you get your Abroad Study Visa to United
+          Kingdom
+        </title>
+        <meta
+          name="Description"
+          content="The United Kingdom is now the second most popular destination for international students, behind the US. Four of the top ten universities on the planet are in the UK as per QS World University Ranking."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Let Yatri Education help you get your Abroad Study Visa to United Kingdom"
+        />
+        <meta
+          property="og:description"
+          content="The United Kingdom is now the second most popular destination for international students, behind the US. Four of the top ten universities on the planet are in the UK as per QS World University Ranking."
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study In UK with Yatri Int'l Education"

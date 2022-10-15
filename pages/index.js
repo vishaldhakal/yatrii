@@ -6,6 +6,7 @@ import Footer from "../components/Footer";
 import { useState } from "react";
 import StudyDestinations from "../components/StudyDestination";
 import Trainings from "../components/Trainings";
+import Head from "next/head";
 
 export default function Home() {
   const [credentials, setCredentials] = useState({
@@ -22,6 +23,33 @@ export default function Home() {
   };
   return (
     <>
+      <Head>
+        <title>
+          Yatri International Education and Visa Services - Sindhuli, Nepal
+        </title>
+        <meta
+          name="Description"
+          content="Join Yatri International Education for professional consultation and visa assistance for your abroad studies journey in Australia and Japan."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Yatri International Education and Visa Services - Sindhuli, Nepal"
+        />
+        <meta
+          property="og:description"
+          content="Join Yatri International Education for professional consultation and visa assistance for your abroad studies journey in Australia and Japan."
+        />
+        <meta
+          property="og:image"
+          content="https://yatrieducation.edu.np/usa.jpg"
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <section className="top container">
         <div className="row row-cols-1 row-cols-md-2 align-items-center">

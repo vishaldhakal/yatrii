@@ -9,6 +9,29 @@ import StudyDestinations from "../components/StudyDestination";
 export default function Japan() {
   return (
     <>
+      <Head>
+        <title>
+          Let Yatri Education help you get your Abroad Study Visa to Japan
+        </title>
+        <meta
+          name="Description"
+          content="The Japanese education system is consistently ranked among the top for its advancement and quality of academics. So, it isn’t surprising that Japan is gaining popularity among international students, despite the language barrier."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Let Yatri Education help you get your Abroad Study Visa to Japan"
+        />
+        <meta
+          property="og:description"
+          content="The Japanese education system is consistently ranked among the top for its advancement and quality of academics. So, it isn’t surprising that Japan is gaining popularity among international students, despite the language barrier."
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study In Japan with Yatri Int'l Education"

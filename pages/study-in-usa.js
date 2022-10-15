@@ -9,6 +9,30 @@ import StudyDestinations from "../components/StudyDestination";
 export default function USA() {
   return (
     <>
+      <Head>
+        <title>
+          Let Yatri Education help you get your Abroad Study Visa to United
+          States of America
+        </title>
+        <meta
+          name="Description"
+          content="The USA is the most popular international student destination. US education is considered one of the best investments for the future. The number of aspiring Nepalese for American education is exponentially increasing year after year."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Let Yatri Education help you get your Abroad Study Visa to United States of America"
+        />
+        <meta
+          property="og:description"
+          content="The USA is the most popular international student destination. US education is considered one of the best investments for the future. The number of aspiring Nepalese for American education is exponentially increasing year after year."
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study In USA with Yatri Int'l Education"

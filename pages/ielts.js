@@ -9,6 +9,29 @@ import TopSection from "../components/TopSection";
 export default function Contact() {
   return (
     <>
+      <Head>
+        <title>
+          Yatri provide IELTS classes for students applying to Australia
+        </title>
+        <meta
+          name="Description"
+          content="We have been providing excellent preparation courses for the IELTS exam ever since the establishment of our institution. Our well-qualified and experienced instructors regularly facilitate students who wish to prepare for the IELTS exam in pragmatic and methodological ways."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Yatri provide IELTS classes for students applying to Australia"
+        />
+        <meta
+          property="og:description"
+          content="We have been providing excellent preparation courses for the IELTS exam ever since the establishment of our institution. Our well-qualified and experienced instructors regularly facilitate students who wish to prepare for the IELTS exam in pragmatic and methodological ways."
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study IELTS With Yatri Education"

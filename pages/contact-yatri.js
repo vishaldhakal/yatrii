@@ -8,6 +8,33 @@ import TopSection from "../components/TopSection";
 export default function Contact() {
   return (
     <>
+      <Head>
+        <title>
+          Contact Yatri International Education and Visa Services Now
+        </title>
+        <meta
+          name="Description"
+          content="Contact Yatri Now | We'd love to hear from you! Don't hesitate to contact us with any questions or feedback. Abroad Studdy questions? Ask us now!"
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Contact Yatri International Education and Visa Services Now"
+        />
+        <meta
+          property="og:description"
+          content="Contact Yatri Now | We'd love to hear from you! Don't hesitate to contact us with any questions or feedback. Abroad Studdy questions? Ask us now!"
+        />
+        <meta
+          property="og:image"
+          content="https://yatrieducation.edu.np/tor.jpg"
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Contact Yatri Education"

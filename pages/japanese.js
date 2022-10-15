@@ -8,6 +8,29 @@ import TopSection from "../components/TopSection";
 export default function Japanese() {
   return (
     <>
+      <Head>
+        <title>
+          Yatri provide Japanese Language classes for students applying to Japan
+        </title>
+        <meta
+          name="Description"
+          content="We have been providing excellent preparation courses for the Japanese language exam ever since the establishment of our institution. Our well-qualified and experienced instructors regularly facilitate students who wish to prepare for the Japanese language exam in pragmatic and methodological ways."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Yatri provide Japanese Language classes for students applying to Japan"
+        />
+        <meta
+          property="og:description"
+          content="We have been providing excellent preparation courses for the Japanese language exam ever since the establishment of our institution. Our well-qualified and experienced instructors regularly facilitate students who wish to prepare for the Japanese language exam in pragmatic and methodological ways."
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study Japanese Language With Yatri Education"

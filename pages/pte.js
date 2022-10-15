@@ -9,6 +9,29 @@ import TopSection from "../components/TopSection";
 export default function Contact() {
   return (
     <>
+      <Head>
+        <title>
+          Yatri provide PTE classes for students applying to Australia
+        </title>
+        <meta
+          name="Description"
+          content="We have been providing excellent preparation courses for the PTE exam ever since the establishment of our institution. Our well-qualified and experienced instructors regularly facilitate students who wish to prepare for the PTE exam in pragmatic and methodological ways."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Yatri provide PTE classes for students applying to Australia"
+        />
+        <meta
+          property="og:description"
+          content="We have been providing excellent preparation courses for the PTE exam ever since the establishment of our institution. Our well-qualified and experienced instructors regularly facilitate students who wish to prepare for the PTE exam in pragmatic and methodological ways."
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study PTE With Yatri Education"

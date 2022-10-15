@@ -9,6 +9,29 @@ import StudyDestinations from "../components/StudyDestination";
 export default function Canada() {
   return (
     <>
+      <Head>
+        <title>
+          Let Yatri Education help you get your Abroad Study Visa to Canada
+        </title>
+        <meta
+          name="Description"
+          content="In recent years, Nepali students seeking post-secondary education in Canada have maintained a strong upward curve. Canada has consistently held its spot among the top destinations for international students seeking a higher quality of education and life."
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Let Yatri Education help you get your Abroad Study Visa to Canada"
+        />
+        <meta
+          property="og:description"
+          content="In recent years, Nepali students seeking post-secondary education in Canada have maintained a strong upward curve. Canada has consistently held its spot among the top destinations for international students seeking a higher quality of education and life."
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study In Canada with Yatri Int'l Education"

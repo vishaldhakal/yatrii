@@ -9,6 +9,29 @@ import StudyDestinations from "../components/StudyDestination";
 export default function Australia() {
   return (
     <>
+      <Head>
+        <title>
+          Let Yatri Education help you get your Abroad Study Visa to Australia
+        </title>
+        <meta
+          name="Description"
+          content="Australia has become one of the most sought-after study destinations for international students seeking to avail themselves of exceptional educational opportunities. "
+        ></meta>
+        <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="og:website" />
+        <meta
+          property="og:title"
+          content="Let Yatri Education help you get your Abroad Study Visa to Australia"
+        />
+        <meta
+          property="og:description"
+          content="Australia has become one of the most sought-after study destinations for international students seeking to avail themselves of exceptional educational opportunities. "
+        />
+        <meta
+          property="og:site_name"
+          content="Yatri International Education and Visa Services"
+        />
+      </Head>
       <Navbar></Navbar>
       <TopSection
         title="Study In Australia with Yatri Int'l Education"
