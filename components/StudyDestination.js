@@ -7,7 +7,7 @@ export default function StudyDestinations() {
         <div className="container">
           <h2 className="fw-bb">Study Destinations</h2>
           <div className="mt-4">
-            <div className="row row-cols-2 row-cols-md-4 gy-5">
+            <div className="row row-cols-2 row-cols-md-5 gy-5">
               <div className="col">
                 <Link href="/study-in-australia">
                   <a>
@@ -63,6 +63,21 @@ export default function StudyDestinations() {
                     />
                     <div className="d-flex justify-content-between align-items-center">
                       <h5 className="fw-bb bb2 mt-2">Study in USA</h5>
+                      <img src="/arr.svg" alt="" className="img-fluid" />
+                    </div>
+                  </a>
+                </Link>
+              </div>
+              <div className="col">
+                <Link href="/study-in-canada">
+                  <a>
+                    <img
+                      src="/can.jpg"
+                      alt=""
+                      className="img-fluid rounded-mine"
+                    />
+                    <div className="d-flex justify-content-between align-items-center">
+                      <h5 className="fw-bb bb2 mt-2">Study in Canada</h5>
                       <img src="/arr.svg" alt="" className="img-fluid" />
                     </div>
                   </a>

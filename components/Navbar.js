@@ -127,6 +127,11 @@ export default function Navbar(props) {
                               <a className="nav-link active">USA</a>
                             </Link>
                           </div>
+                          <div className="col haha2 py-1">
+                            <Link href="/study-in-canada">
+                              <a className="nav-link active">Canada</a>
+                            </Link>
+                          </div>
                         </div>
                       </div>
                     </div>

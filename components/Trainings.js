@@ -75,7 +75,7 @@ export default function Trainings(props) {
                     </div>
                     <div className="col-9">
                       <div className="d-flex justify-content-between align-items-center">
-                        <h5 className="fw-bold">Japaness Language</h5>
+                        <h5 className="fw-bold">Japanese Language</h5>
                         <img
                           src="/arrow.svg"
                           alt="arrow"

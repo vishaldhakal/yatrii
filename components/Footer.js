@@ -54,7 +54,7 @@ export default function Footer() {
               <div className="col">
                 <h5 className="fw-bold">Useful Links</h5>
                 <div className="list">
-                  <Link href="/about-yatri" activeClassName="">
+                  <Link href="/about-yatri" activeClassName=" ">
                     <a className="mybot">About Yatri</a>
                   </Link>
                   <Link href="/contact-yatri" activeClassName="">
